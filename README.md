@@ -1,5 +1,6 @@
-# cookin-up
+Repositorio referente ao curso Vue 3: entendendo componentes, diretivas e reatividade no framework da Alura.
 
+# cookin-up
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
